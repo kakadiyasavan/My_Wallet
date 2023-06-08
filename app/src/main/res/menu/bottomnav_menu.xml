@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/IncExp"
+        android:title="ADD"
+        android:icon="@drawable/incexp"/>
+
+    <item
+        android:id="@+id/trancationlist"
+        android:title="Trancation"
+        android:icon="@drawable/checklist"/>
+
+    <item
+        android:id="@+id/chart"
+        android:title="Chart"
+        android:icon="@drawable/chart"/>
+
+
+</menu>
